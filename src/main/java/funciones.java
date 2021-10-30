@@ -43,7 +43,7 @@ public class funciones {
         return rst;
     }
 
-    public static double sqrt(int x){
+    public static double sqrt(double x){
         double rst = Math.sqrt(x);
         return rst;
     }
